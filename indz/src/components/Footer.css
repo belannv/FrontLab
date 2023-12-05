@@ -1,0 +1,9 @@
+/* components/Footer.css */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: #f2f2f2;
+}
